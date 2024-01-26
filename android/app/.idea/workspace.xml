@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8211d3b-17d4-4e51-9292-6b8f86b16afb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/Assets.xcassets/Banner.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/Assets.xcassets/Banner.imageset/bannerstarbuck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/Assets.xcassets/Image.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/Assets.xcassets/Image.imageset/Image 1-2-24 at 9.35 PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/AsyncImage.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/ForgotPassword.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/HexColor.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/JavaBeans.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/LoginFlow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/LoginView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/MainView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/Onboarding.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/RegisterView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/SplashScreenView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/UIKit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LoyaltyApp/main.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UIKit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoyaltyApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../LoyaltyApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoyaltyApp.xcodeproj/xcuserdata/justin.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../LoyaltyApp.xcodeproj/xcuserdata/justin.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoyaltyApp/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoyaltyApp/LoyaltyAppApp.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../LoyaltyApp/LoyaltyApp.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2bQmydZCGNuODpWxUQ62HLvjHfE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8211d3b-17d4-4e51-9292-6b8f86b16afb" name="Changes" comment="" />
+      <created>1706155933047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706155933047</updated>
+      <workItem from="1706155934654" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

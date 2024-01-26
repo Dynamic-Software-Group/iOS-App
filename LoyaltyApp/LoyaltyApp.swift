@@ -1,5 +1,5 @@
 //
-//  LoyaltyAppApp.swift
+//  LoyaltyApp.swift
 //  LoyaltyApp
 //
 //  Created by Justin Edgington on 1/22/24.
@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct LoyaltyAppApp: App {
+struct LoyaltyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }

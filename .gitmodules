@@ -1,0 +1,6 @@
+[submodule "LoyaltyApp/UIKit"]
+	path = LoyaltyApp/UIKit
+	url = git@github.com:flowkey/UIKit-cross-platform.git
+[submodule "UIKit"]
+	path = UIKit
+	url = git@github.com:flowkey/UIKit-cross-platform.git

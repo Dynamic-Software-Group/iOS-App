@@ -7,13 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D05628232B5F47C900DB029D /* LoyaltyAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628222B5F47C900DB029D /* LoyaltyAppApp.swift */; };
-		D05628252B5F47C900DB029D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628242B5F47C900DB029D /* ContentView.swift */; };
+		D05628232B5F47C900DB029D /* LoyaltyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628222B5F47C900DB029D /* LoyaltyApp.swift */; };
+		D05628252B5F47C900DB029D /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628242B5F47C900DB029D /* Onboarding.swift */; };
 		D05628272B5F47CB00DB029D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D05628262B5F47CB00DB029D /* Assets.xcassets */; };
 		D056282A2B5F47CB00DB029D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D05628292B5F47CB00DB029D /* Preview Assets.xcassets */; };
 		D05628342B5F47CB00DB029D /* LoyaltyAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628332B5F47CB00DB029D /* LoyaltyAppTests.swift */; };
 		D056283E2B5F47CB00DB029D /* LoyaltyAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D056283D2B5F47CB00DB029D /* LoyaltyAppUITests.swift */; };
 		D05628402B5F47CB00DB029D /* LoyaltyAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D056283F2B5F47CB00DB029D /* LoyaltyAppUITestsLaunchTests.swift */; };
+		D056284E2B5F4A6D00DB029D /* HexColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = D056284D2B5F4A6D00DB029D /* HexColor.swift */; };
+		D05628542B5F4D4D00DB029D /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628532B5F4D4D00DB029D /* SplashScreenView.swift */; };
+		D05628562B5F525000DB029D /* JavaBeans.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628552B5F525000DB029D /* JavaBeans.swift */; };
+		D05628582B5F578800DB029D /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628572B5F578800DB029D /* MainView.swift */; };
+		D056285A2B5F580D00DB029D /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628592B5F580D00DB029D /* LoginView.swift */; };
+		D056285C2B600E6A00DB029D /* LoginFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D056285B2B600E6A00DB029D /* LoginFlow.swift */; };
+		D056285E2B604CA000DB029D /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D056285D2B604CA000DB029D /* RegisterView.swift */; };
+		D05628602B60B2B700DB029D /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = D056285F2B60B2B700DB029D /* ForgotPassword.swift */; };
+		D05628622B61D03E00DB029D /* AsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05628612B61D03E00DB029D /* AsyncImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,8 +44,8 @@
 
 /* Begin PBXFileReference section */
 		D056281F2B5F47C900DB029D /* LoyaltyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoyaltyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D05628222B5F47C900DB029D /* LoyaltyAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoyaltyAppApp.swift; sourceTree = "<group>"; };
-		D05628242B5F47C900DB029D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D05628222B5F47C900DB029D /* LoyaltyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoyaltyApp.swift; sourceTree = "<group>"; };
+		D05628242B5F47C900DB029D /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
 		D05628262B5F47CB00DB029D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D05628292B5F47CB00DB029D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D056282F2B5F47CB00DB029D /* LoyaltyAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoyaltyAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +53,15 @@
 		D05628392B5F47CB00DB029D /* LoyaltyAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoyaltyAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D056283D2B5F47CB00DB029D /* LoyaltyAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoyaltyAppUITests.swift; sourceTree = "<group>"; };
 		D056283F2B5F47CB00DB029D /* LoyaltyAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoyaltyAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D056284D2B5F4A6D00DB029D /* HexColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexColor.swift; sourceTree = "<group>"; };
+		D05628532B5F4D4D00DB029D /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
+		D05628552B5F525000DB029D /* JavaBeans.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JavaBeans.swift; sourceTree = "<group>"; };
+		D05628572B5F578800DB029D /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		D05628592B5F580D00DB029D /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		D056285B2B600E6A00DB029D /* LoginFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginFlow.swift; sourceTree = "<group>"; };
+		D056285D2B604CA000DB029D /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		D056285F2B60B2B700DB029D /* ForgotPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPassword.swift; sourceTree = "<group>"; };
+		D05628612B61D03E00DB029D /* AsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +112,18 @@
 		D05628212B5F47C900DB029D /* LoyaltyApp */ = {
 			isa = PBXGroup;
 			children = (
-				D05628222B5F47C900DB029D /* LoyaltyAppApp.swift */,
-				D05628242B5F47C900DB029D /* ContentView.swift */,
+				D056284C2B5F4A5400DB029D /* Extensions */,
+				D05628222B5F47C900DB029D /* LoyaltyApp.swift */,
+				D05628242B5F47C900DB029D /* Onboarding.swift */,
 				D05628262B5F47CB00DB029D /* Assets.xcassets */,
 				D05628282B5F47CB00DB029D /* Preview Content */,
+				D05628532B5F4D4D00DB029D /* SplashScreenView.swift */,
+				D05628552B5F525000DB029D /* JavaBeans.swift */,
+				D05628572B5F578800DB029D /* MainView.swift */,
+				D05628592B5F580D00DB029D /* LoginView.swift */,
+				D056285B2B600E6A00DB029D /* LoginFlow.swift */,
+				D056285D2B604CA000DB029D /* RegisterView.swift */,
+				D056285F2B60B2B700DB029D /* ForgotPassword.swift */,
 			);
 			path = LoyaltyApp;
 			sourceTree = "<group>";
@@ -125,6 +151,15 @@
 				D056283F2B5F47CB00DB029D /* LoyaltyAppUITestsLaunchTests.swift */,
 			);
 			path = LoyaltyAppUITests;
+			sourceTree = "<group>";
+		};
+		D056284C2B5F4A5400DB029D /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				D056284D2B5F4A6D00DB029D /* HexColor.swift */,
+				D05628612B61D03E00DB029D /* AsyncImage.swift */,
+			);
+			name = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +292,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D05628252B5F47C900DB029D /* ContentView.swift in Sources */,
-				D05628232B5F47C900DB029D /* LoyaltyAppApp.swift in Sources */,
+				D056285E2B604CA000DB029D /* RegisterView.swift in Sources */,
+				D05628252B5F47C900DB029D /* Onboarding.swift in Sources */,
+				D056285A2B5F580D00DB029D /* LoginView.swift in Sources */,
+				D05628582B5F578800DB029D /* MainView.swift in Sources */,
+				D056285C2B600E6A00DB029D /* LoginFlow.swift in Sources */,
+				D05628622B61D03E00DB029D /* AsyncImage.swift in Sources */,
+				D056284E2B5F4A6D00DB029D /* HexColor.swift in Sources */,
+				D05628232B5F47C900DB029D /* LoyaltyApp.swift in Sources */,
+				D05628562B5F525000DB029D /* JavaBeans.swift in Sources */,
+				D05628542B5F4D4D00DB029D /* SplashScreenView.swift in Sources */,
+				D05628602B60B2B700DB029D /* ForgotPassword.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
