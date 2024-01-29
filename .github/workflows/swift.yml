@@ -15,10 +15,10 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - name: list
-      run: ls
     - uses: actions/checkout@v3
     - name: Build
       run: swift build -v
+      working-directory: ./LoyaltyApp
     - name: Run tests
       run: swift test -v
+      working-directory: ./LoyaltyApp
